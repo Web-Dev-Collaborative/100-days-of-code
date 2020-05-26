@@ -1,30 +1,10 @@
-# 100 Days Of Code - Log
+# 100 Days Of Code - Log - [Jack Domleo](https://jackdomleo.dev)
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: May 26, 2020
+##### Vue `<transition>` as part of a CodePen challenge
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Participated in the 4th part of CodePen's May 2020 challenge, [Vue Transitions](https://codepen.io/challenges/2020/may/4), so created an Alan Sugar firing list.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** I only really know as much as CSS transitions and keyframes. I'd really like to learn more web animation but not sure where to start. Check out my [tweet](https://twitter.com/jackdomleo7/status/1265052767850237954). But this was a good first insight into Vue transitions and it was also nice that I'm already familiar with Vue.js.
 
-**Link to work:** [Calculator App](http://www.example.com)
-
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Link to work:** [Alan Sugar's Fired Employees on CodePen](https://codepen.io/JackDomleo/pen/gOayzNY)
