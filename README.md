@@ -1,5 +1,9 @@
 # I've joined the #100DaysOfCode Challenge
 
+## [Read my log](log.md)
+
+---
+
 ## Contents
 
 * [Rules](rules.md)
