@@ -17,3 +17,12 @@
 **Thoughts:** I really enjoyed doing this. I created several CodePen pens and I wrote a blog to further my understanding. Even though neumorphic design never really took off, I probably won't use or recommend it commercially, however I will definitely use it when creating little neat CodePens.
 
 **Link to work:** [Blog](https://jackdomleo.dev/blog/learning-neumorphic-design) &bull; [CodePen collection](https://codepen.io/collection/XjYaOy) &bull; [Neumorphic Design Elements CodePen](https://codepen.io/JackDomleo/pen/mdeowoz) &bull; [Neumorphic Music Player UI CodePen](https://codepen.io/JackDomleo/pen/GRpaNGp) &bull; [Choosing a neumorphic font-family CodePen](https://codepen.io/JackDomleo/pen/dyYEdPg) &bull; [Understanding neumorphic design shadows CodePen](https://codepen.io/JackDomleo/pen/yLYWqoQ)
+
+### Day 3: May 28, 2020
+##### Union Jack flag and learning anime.js
+
+**Today's Progress**: I decided to create a little CodePen of the Union Jack flag and start learning anime.js
+
+**Thoughts:** The Union Jack flag was interesting because it allowed me to think of how the flag should be structured. I ultimtaely ended up using simple blocks for the red England flag, then furthering my understanding of `linear-gradient` with the Scottish and St George flag. I also began learning anime.js for web animation which I hope to be continuing for 4-5 days.
+
+**Link to work:** [Union Jack CodePen](https://codepen.io/JackDomleo/pen/abvrgEo) &bull; [Learning anime.js CodePen](https://codepen.io/JackDomleo/pen/xxwoEZO)
