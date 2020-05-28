@@ -23,6 +23,6 @@
 
 **Today's Progress**: I decided to create a little CodePen of the Union Jack flag and start learning anime.js
 
-**Thoughts:** The Union Jack flag was interesting because it allowed me to think of how the flag should be structured. I ultimtaely ended up using simple blocks for the red England flag, then furthering my understanding of `linear-gradient` with the Scottish and St George flag. I also began learning anime.js for web animation which I hope to be continuing for 4-5 days.
+**Thoughts:** The Union Jack flag was interesting because it allowed me to think of how the flag should be structured. I ultimtaely ended up using simple blocks for the red England flag, then furthering my understanding of `linear-gradient` with the Scottish and Northern Ireland flag. I also began learning anime.js for web animation which I hope to be continuing for 4-5 days.
 
 **Link to work:** [Union Jack CodePen](https://codepen.io/JackDomleo/pen/abvrgEo) &bull; [Learning anime.js CodePen](https://codepen.io/JackDomleo/pen/xxwoEZO)
