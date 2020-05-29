@@ -26,3 +26,12 @@
 **Thoughts:** The Union Jack flag was interesting because it allowed me to think of how the flag should be structured. I ultimtaely ended up using simple blocks for the red England flag, then furthering my understanding of `linear-gradient` with the Scottish and Northern Ireland flag. I also began learning anime.js for web animation which I hope to be continuing for 4-5 days.
 
 **Link to work:** [Union Jack CodePen](https://codepen.io/JackDomleo/pen/abvrgEo) &bull; [Learning anime.js CodePen](https://codepen.io/JackDomleo/pen/xxwoEZO)
+
+### Day 4: May 29, 2020
+##### Web animation - anime.js and GSAP
+
+**Today's Progress**: I began learning anime.js yesterday and sadly we did not get on, so I started over with GSAP
+
+**Thoughts:** Learning GSAP was really fun, I began by making a simple spinning smiley face animation on CodePen. I'm not entirely sure what went wrong with myself and anime.js but hopefully I can revisit it later and try again. But for now, I'm impressed with GSAP! I was curious as to whether other people preferred anime.js or GSAP, so I created a [Twitter poll](https://twitter.com/jackdomleo7/status/1266140324767899648).
+
+**Link to work:** [Spinning Smiley Face CodePen](https://codepen.io/JackDomleo/pen/wvKLjVb)
