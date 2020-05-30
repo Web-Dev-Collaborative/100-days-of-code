@@ -35,3 +35,12 @@
 **Thoughts:** Learning GSAP was really fun, I began by making a simple spinning smiley face animation on CodePen. I'm not entirely sure what went wrong with myself and anime.js but hopefully I can revisit it later and try again. But for now, I'm impressed with GSAP! I was curious as to whether other people preferred anime.js or GSAP, so I created a [Twitter poll](https://twitter.com/jackdomleo7/status/1266140324767899648).
 
 **Link to work:** [Spinning Smiley Face CodePen](https://codepen.io/JackDomleo/pen/wvKLjVb)
+
+### Day 5: May 30, 2020
+##### Web animation - GSAP
+
+**Today's Progress**: Carried on with GSAP today, a little lost on ideas and felt a bit demotivated
+
+**Thoughts:** I've been struggling with web animation to be honest, in the sense of - I feel idealess, had a few 'gotcha' moments with timing, messy JS and just feeling like I'm in the right vibe for web animation, it's more of a designer job. Anywho, I'm determined to carry on because I am genuinely interested in learning more and improving my web animation skills.
+
+**Link to work:** [Day/Night Animation CodePen](https://codepen.io/JackDomleo/pen/NWGQjvW)
