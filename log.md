@@ -44,3 +44,12 @@
 **Thoughts:** I've been struggling with web animation to be honest, in the sense of - I feel idealess, had a few 'gotcha' moments with timing, messy JS and just feeling like I'm in the right vibe for web animation, it's more of a designer job. Anywho, I'm determined to carry on because I am genuinely interested in learning more and improving my web animation skills.
 
 **Link to work:** [Day/Night Animation CodePen](https://codepen.io/JackDomleo/pen/NWGQjvW)
+
+### Day 6: May 31, 2020
+##### Web animation - GSAP
+
+**Today's Progress**: Finished the Day/Night GSAP animation, wasn't particularly happy with myself
+
+**Thoughts:** I've been feeling a bit deflated with my progression on web animation. I wasn't happy with where my skills were. I had to remind myself that it's OK, it will take time, I just need to keep creating lots of animations and eventually my understanding will get there, a very similar approach to how I learned CSS. I've decided to take a little break from web animation and move onto to something else and revisit it in a week or two, hopefully in that time I may discover some free courses and/or more inspirational ideas.
+
+**Link to work:** [Day/Night Animation CodePen](https://codepen.io/JackDomleo/pen/NWGQjvW)
