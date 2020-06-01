@@ -1,43 +1,76 @@
-# I've joined the #100DaysOfCode Challenge
+# 100 Days Of Code - [Jack Domleo](https://jackdomleo.dev?ref=100daysofcode)
 
-## [Read my log](log.md)
+## Welcome to my journey!
 
----
+[100daysofcode.com](https://100daysofcode.com) &bull; [#100DaysOfCode](https://twitter.com/hashtag/100DaysOfCode) &bull; [@ka11away](https://twitter.com/ka11away)
 
-## Contents
+### Contents
 
 * [Rules](rules.md)
-* [Log - click here to see my progress](log.md)
 * [FAQ](FAQ.md)
 * [Resources](resources.md)
 
-## Translations
-[বাংলা](intl/bn/README.md) - [català](intl/ca/README.md) - [中文](intl/ch/README.md) - [deutsch](intl/de/README.md) - [español](intl/es/README.md) – [français](intl/fr/FAQ-fr.md) – [italiano](intl/it/README.md) – [日本語](intl/ja/README.md) - [한국어](intl/ko/README-ko.md) – [norsk](intl/no/README.md) –  [polski](intl/pl/README.md) - [português do Brasil](intl/pt-br/LEIAME.md) - [русский](intl/ru/README-ru.md) – [українська](intl/ua/README-ua.md) - [ελληνικά](intl/el/README.md)
+---
 
-If you want to help by providing a translation of content/rules in the language you know, submit a pull request (or DM me on Twitter @ka11away), adding a sub-folder in the 'intl' folder with the files of the translation there.
+### Day 1: May 26, 2020
+##### Vue `<transition>` as part of a CodePen challenge
 
-## If you've decided to join:
+**Today's Progress**: Participated in the 4th part of CodePen's May 2020 challenge, [Vue Transitions](https://codepen.io/challenges/2020/may/4), so created an Alan Sugar firing list.
 
-0.  Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode movement. Connect with others on the platform of your choice from this list: www.100DaysOfCode.com/connect
-    Also, [here](https://join.slack.com/t/100xcode/shared_invite/zt-eivg7x1x-wgNPDh7ug_u4GcUwZNT8Zg) is a invite link to the 100DaysOfCode Slack channel
-1.  Read [Join the #100DaysOfCode](https://medium.freecodecamp.com/join-the-100daysofcode-556ddb4579e4)
-2.  Fork this repo and commit to the [Log](log.md) or to the Alternative, rapid [R1 Log](r1-log.md) (R1 stands for Round 1) daily. [Example](https://github.com/Kallaway/100-days-kallaway-log).
-3.  **Code minimum an hour every day for the next 100 days.**
-4.  **Encourage at least two other people in the challenge on Twitter every day! Pay it forward!**
-5.  Change the date in [Rules](rules.md) to the day you've started the challenge.
-6.  Delete the examples in the log, or comment them out, and start filling it with your own content.
-7.  **Tweet your progress every day using the #100DaysOfCode hashtag.**
-8.  Follow [100DaysOfCode](https://twitter.com/_100DaysOfCode) Twitter Bot that retweets the tweets that contain the #100DaysOfCode hashtag. It's a great way to keep yourself motivated and to participate in the community. Thanks [@amanhimself](https://twitter.com/amanhimself) for creating it!
-9.  Important: (see No.4 above for a specific rule on this) Encourage others who are doing the same challenge on Twitter or elsewhere - by giving them props when they are posting updates on their progress, supporting them when things get difficult. Thus we will grow a community that is helpful and effective, which will lead to a higher success rate for each person involved. It's also more likely that you will stick to your own commitment, given that you will get acquainted with a couple people (or more) right away.
-10.  If you find a great, helpful resource that others would benefit from, either submit a Pull Request to add it to the repo, or just tweet at me (see info below)
+**Thoughts:** I only really know as much as CSS transitions and keyframes. I'd really like to learn more web animation but not sure where to start. Check out my [tweet](https://twitter.com/jackdomleo7/status/1265052767850237954). But this was a good first insight into Vue transitions and it was also nice that I'm already familiar with Vue.js.
 
-## Want to change other habits?
+**Link to work:** [Alan Sugar's Fired Employees on CodePen](https://codepen.io/JackDomleo/pen/gOayzNY)
 
-Check out [the #100DaysOfX Challenges Project](http://100daysofx.com/). Changing your habits you are changing your life. Remember that the best time to start is always NOW.
+### Day 2: May 27, 2020
+##### Neumorphic Design
 
-I recommend that you commit to no more than 2-3 challenges at a time, ideally 2. If you are doing the #100DaysOfCode which involves a lot of mental activity, try the [#100DaysOfHealth](http://100daysofx.com/where-x-is/health/), or [#100DaysOfFitness](http://100daysofx.com/challenges/) challenges. There is so much more on the site, check all of them out and choose the ones you want to acquire! Languages, writing, meditation, journaling, cooking, and more!
+**Today's Progress**: I've recently been fascinated with neumorphic design, so I went and learned how to create neumorpic components.
 
-## Note
+**Thoughts:** I really enjoyed doing this. I created several CodePen pens and I wrote a blog to further my understanding. Even though neumorphic design never really took off, I probably won't use or recommend it commercially, however I will definitely use it when creating little neat CodePens.
 
-* If you have any questions or ideas about 100DaysOfCode (or other ideas), feel free to reach out to me on Twitter: [@ka11away](https://twitter.com/ka11away)
-* If you like this repo and find it useful, please consider &#9733; starring it (on top right of the page) and forking it :)
+**Link to work:** [Blog](https://jackdomleo.dev/blog/learning-neumorphic-design) &bull; [CodePen collection](https://codepen.io/collection/XjYaOy) &bull; [Neumorphic Design Elements CodePen](https://codepen.io/JackDomleo/pen/mdeowoz) &bull; [Neumorphic Music Player UI CodePen](https://codepen.io/JackDomleo/pen/GRpaNGp) &bull; [Choosing a neumorphic font-family CodePen](https://codepen.io/JackDomleo/pen/dyYEdPg) &bull; [Understanding neumorphic design shadows CodePen](https://codepen.io/JackDomleo/pen/yLYWqoQ)
+
+### Day 3: May 28, 2020
+##### Union Jack flag and learning anime.js
+
+**Today's Progress**: I decided to create a little CodePen of the Union Jack flag and start learning anime.js
+
+**Thoughts:** The Union Jack flag was interesting because it allowed me to think of how the flag should be structured. I ultimtaely ended up using simple blocks for the red England flag, then furthering my understanding of `linear-gradient` with the Scottish and Northern Ireland flag. I also began learning anime.js for web animation which I hope to be continuing for 4-5 days.
+
+**Link to work:** [Union Jack CodePen](https://codepen.io/JackDomleo/pen/abvrgEo) &bull; [Learning anime.js CodePen](https://codepen.io/JackDomleo/pen/xxwoEZO)
+
+### Day 4: May 29, 2020
+##### Web animation - anime.js and GSAP
+
+**Today's Progress**: I began learning anime.js yesterday and sadly we did not get on, so I started over with GSAP
+
+**Thoughts:** Learning GSAP was really fun, I began by making a simple spinning smiley face animation on CodePen. I'm not entirely sure what went wrong with myself and anime.js but hopefully I can revisit it later and try again. But for now, I'm impressed with GSAP! I was curious as to whether other people preferred anime.js or GSAP, so I created a [Twitter poll](https://twitter.com/jackdomleo7/status/1266140324767899648).
+
+**Link to work:** [Spinning Smiley Face CodePen](https://codepen.io/JackDomleo/pen/wvKLjVb)
+
+### Day 5: May 30, 2020
+##### Web animation - GSAP
+
+**Today's Progress**: Carried on with GSAP today, a little lost on ideas and felt a bit demotivated
+
+**Thoughts:** I've been struggling with web animation to be honest, in the sense of - I feel idealess, had a few 'gotcha' moments with timing, messy JS and just feeling like I'm in the right vibe for web animation, it's more of a designer job. Anywho, I'm determined to carry on because I am genuinely interested in learning more and improving my web animation skills.
+
+**Link to work:** [Day/Night Animation CodePen](https://codepen.io/JackDomleo/pen/NWGQjvW)
+
+### Day 6: May 31, 2020
+##### Web animation - GSAP
+
+**Today's Progress**: Finished the Day/Night GSAP animation, wasn't particularly happy with myself
+
+**Thoughts:** I've been feeling a bit deflated with my progression on web animation. I wasn't happy with where my skills were. I had to remind myself that it's OK, it will take time, I just need to keep creating lots of animations and eventually my understanding will get there, a very similar approach to how I learned CSS. I've decided to take a little break from web animation and move onto to something else and revisit it in a week or two, hopefully in that time I may discover some free courses and/or more inspirational ideas.
+
+**Link to work:** [Day/Night Animation CodePen](https://codepen.io/JackDomleo/pen/NWGQjvW)
+
+### Day 7: June 1, 2020
+##### Neumorphic design
+
+**Today's Progress**: Resumed on my neumorphic design CodePen and collection
+
+**Thoughts:** I decided to take a break from animation today and focus on a few more neumorphic element ideas of mine. I created an analogue and digital clock and various loaders. Looking to resume animation tomorrow with the new CodePen challenge on GSAP.
+
+**Link to work:** [CodePen collection](https://codepen.io/collection/XjYaOy) &bull; [Neumorphic Design Elements CodePen](https://codepen.io/JackDomleo/pen/mdeowoz)
