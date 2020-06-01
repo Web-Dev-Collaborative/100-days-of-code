@@ -53,3 +53,12 @@
 **Thoughts:** I've been feeling a bit deflated with my progression on web animation. I wasn't happy with where my skills were. I had to remind myself that it's OK, it will take time, I just need to keep creating lots of animations and eventually my understanding will get there, a very similar approach to how I learned CSS. I've decided to take a little break from web animation and move onto to something else and revisit it in a week or two, hopefully in that time I may discover some free courses and/or more inspirational ideas.
 
 **Link to work:** [Day/Night Animation CodePen](https://codepen.io/JackDomleo/pen/NWGQjvW)
+
+### Day 7: June 1, 2020
+##### Neumorphic design
+
+**Today's Progress**: Resumed on my neumorphic design CodePen and collection
+
+**Thoughts:** I decided to take a break from animation today and focus on a few more neumorphic element ideas of mine. I created an analogue and digital clock and various loaders. Looking to resume animation tomorrow with the new CodePen challenge on GSAP.
+
+**Link to work:** [CodePen collection](https://codepen.io/collection/XjYaOy) &bull; [Neumorphic Design Elements CodePen](https://codepen.io/JackDomleo/pen/mdeowoz)
