@@ -74,3 +74,12 @@
 **Thoughts:** I decided to take a break from animation today and focus on a few more neumorphic element ideas of mine. I created an analogue and digital clock and various loaders. Looking to resume animation tomorrow with the new CodePen challenge on GSAP.
 
 **Link to work:** [CodePen collection](https://codepen.io/collection/XjYaOy) &bull; [Neumorphic Design Elements CodePen](https://codepen.io/JackDomleo/pen/mdeowoz)
+
+### Day 8: June 2, 2020
+##### GSAP Sequencing Animation
+
+**Today's Progress**: Revisted web animation with CodePen's GSAP Sequencing challenge and watched animation tutorials
+
+**Thoughts:** Interesting day. Took the opportunity to look at what others had submitted for their GSAP sequencing animation CodePen challenge, which inspired me to revisit animation ealrier than expected. Watched a few tutorials on GSAP, reading documentation is OK, but watching a tutorial, watching someone actually do is where it's at! Started an airplane CodePen animation that I hope to resume tomorrow with new things I've learned.
+
+**Link to work:** [Airplane Sequence Animation CodePen](https://codepen.io/JackDomleo/pen/ZEQzgLm) &bull; [GSAP Sequence CodePen challenge](https://codepen.io/challenges/2020/june/1) &bull; [Getting started with GSAP 3 Youtube](https://www.youtube.com/watch?v=M4GCT-2kaoo&feature=youtu.be)
