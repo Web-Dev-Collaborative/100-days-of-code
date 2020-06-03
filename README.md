@@ -130,3 +130,19 @@
 [![Day 8 image](img/day-8.gif)](https://codepen.io/JackDomleo/pen/ZEQzgLm)
 
 ---
+
+### Day 9: June 3, 2020
+##### GSAP Sequencing Animation & GSAP Morph SVG
+
+**Today's Progress**: Resumed on my airplane sequence animation to look for improvements and tried out GSAP's Morph SVG plugin
+
+**Thoughts:** Worked on looking into easing and looking at how I could make the plane look more realistic. Also took the opportunity to watch more GSAP videos on topics I can use later and I created a CodePen to practise using GSAP's Morph SVG plugin.
+
+**Link to work:**
+- [Airplane Sequence Animation CodePen](https://codepen.io/JackDomleo/pen/ZEQzgLm)
+- [SVG Morph GSAP CodePen](https://codepen.io/JackDomleo/pen/abdbMwE)
+
+[![Day 9 image](img/day-9.gif)](https://codepen.io/JackDomleo/pen/ZEQzgLm)
+[![Day 9 image](img/day-9-svg.gif)](https://codepen.io/JackDomleo/pen/abdbMwE)
+
+---
