@@ -4,6 +4,8 @@
 
 ## Welcome to my journey!
 
+**Commit tweet:** https://twitter.com/jackdomleo7/status/1265321691108032513
+
 [100daysofcode.com](https://100daysofcode.com) &bull; [#100DaysOfCode](https://twitter.com/hashtag/100DaysOfCode) &bull; [@ka11away](https://twitter.com/ka11away)
 
 ### Contents
@@ -21,6 +23,8 @@
 
 **Thoughts:** I only really know as much as CSS transitions and keyframes. I'd really like to learn more web animation but not sure where to start. Check out my [tweet](https://twitter.com/jackdomleo7/status/1265052767850237954). But this was a good first insight into Vue transitions and it was also nice that I'm already familiar with Vue.js.
 
+**Tweet:** https://twitter.com/jackdomleo7/status/1265323818991697923
+
 **Link to work:** [Alan Sugar's Fired Employees on CodePen](https://codepen.io/JackDomleo/pen/gOayzNY)
 
 [![Day 1 image](img/day-1.gif)](https://codepen.io/JackDomleo/pen/gOayzNY)
@@ -33,6 +37,8 @@
 **Today's Progress**: I've recently been fascinated with neumorphic design, so I went and learned how to create neumorpic components.
 
 **Thoughts:** I really enjoyed doing this. I created several CodePen pens and I wrote a blog to further my understanding. Even though neumorphic design never really took off, I probably won't use or recommend it commercially, however I will definitely use it when creating little neat CodePens.
+
+**Tweet:** https://twitter.com/jackdomleo7/status/1265672557333753862
 
 **Link to work:**
 - [Blog](https://jackdomleo.dev/blog/learning-neumorphic-design)
@@ -53,6 +59,8 @@
 
 **Thoughts:** The Union Jack flag was interesting because it allowed me to think of how the flag should be structured. I ultimtaely ended up using simple blocks for the red England flag, then furthering my understanding of `linear-gradient` with the Scottish and Northern Ireland flag. I also began learning anime.js for web animation which I hope to be continuing for 4-5 days.
 
+**Tweet:** https://twitter.com/jackdomleo7/status/1265956691033587713
+
 **Link to work:**
 - [Union Jack CodePen](https://codepen.io/JackDomleo/pen/abvrgEo)
 - [Learning anime.js CodePen](https://codepen.io/JackDomleo/pen/xxwoEZO)
@@ -68,6 +76,8 @@
 
 **Thoughts:** Learning GSAP was really fun, I began by making a simple spinning smiley face animation on CodePen. I'm not entirely sure what went wrong with myself and anime.js but hopefully I can revisit it later and try again. But for now, I'm impressed with GSAP! I was curious as to whether other people preferred anime.js or GSAP, so I created a [Twitter poll](https://twitter.com/jackdomleo7/status/1266140324767899648).
 
+**Tweet:** https://twitter.com/jackdomleo7/status/1266291364964085761
+
 **Link to work:** [Spinning Smiley Face CodePen](https://codepen.io/JackDomleo/pen/wvKLjVb)
 
 [![Day 4 image](img/day-4.gif)](https://codepen.io/JackDomleo/pen/wvKLjVb)
@@ -80,6 +90,8 @@
 **Today's Progress**: Carried on with GSAP today, a little lost on ideas and felt a bit demotivated
 
 **Thoughts:** I've been struggling with web animation to be honest, in the sense of - I feel idealess, had a few 'gotcha' moments with timing, messy JS and just feeling like I'm in the right vibe for web animation, it's more of a designer job. Anywho, I'm determined to carry on because I am genuinely interested in learning more and improving my web animation skills.
+
+**Tweet:** https://twitter.com/jackdomleo7/status/1266847508027883521
 
 **Link to work:** [Day/Night Animation CodePen](https://codepen.io/JackDomleo/pen/NWGQjvW)
 
@@ -94,6 +106,8 @@
 
 **Thoughts:** I've been feeling a bit deflated with my progression on web animation. I wasn't happy with where my skills were. I had to remind myself that it's OK, it will take time, I just need to keep creating lots of animations and eventually my understanding will get there, a very similar approach to how I learned CSS. I've decided to take a little break from web animation and move onto to something else and revisit it in a week or two, hopefully in that time I may discover some free courses and/or more inspirational ideas.
 
+**Tweet:** https://twitter.com/jackdomleo7/status/1267162870695034886
+
 **Link to work:** [Day/Night Animation CodePen](https://codepen.io/JackDomleo/pen/NWGQjvW)
 
 [![Day 5 image](img/day-5.gif)](https://codepen.io/JackDomleo/pen/NWGQjvW)
@@ -106,6 +120,8 @@
 **Today's Progress**: Resumed on my neumorphic design CodePen and collection
 
 **Thoughts:** I decided to take a break from animation today and focus on a few more neumorphic element ideas of mine. I created an analogue and digital clock and various loaders. Looking to resume animation tomorrow with the new CodePen challenge on GSAP.
+
+**Tweet:** https://twitter.com/jackdomleo7/status/1267559349293121537
 
 **Link to work:**
 - [CodePen collection](https://codepen.io/collection/XjYaOy)
@@ -122,6 +138,8 @@
 
 **Thoughts:** Interesting day. Took the opportunity to look at what others had submitted for their GSAP sequencing animation CodePen challenge, which inspired me to revisit animation ealrier than expected. Watched a few tutorials on GSAP, reading documentation is OK, but watching a tutorial, watching someone actually do is where it's at! Started an airplane CodePen animation that I hope to resume tomorrow with new things I've learned.
 
+**Tweet:** https://twitter.com/jackdomleo7/status/1267824496544673799
+
 **Link to work:**
 - [Airplane Sequence Animation CodePen](https://codepen.io/JackDomleo/pen/ZEQzgLm)
 - [GSAP Sequence CodePen challenge](https://codepen.io/challenges/2020/june/1)
@@ -137,6 +155,8 @@
 **Today's Progress**: Resumed on my airplane sequence animation to look for improvements and tried out GSAP's Morph SVG plugin
 
 **Thoughts:** Worked on looking into easing and looking at how I could make the plane look more realistic. Also took the opportunity to watch more GSAP videos on topics I can use later and I created a CodePen to practise using GSAP's Morph SVG plugin.
+
+**Tweet:** https://twitter.com/jackdomleo7/status/1268195822287626243
 
 **Link to work:**
 - [Airplane Sequence Animation CodePen](https://codepen.io/JackDomleo/pen/ZEQzgLm)
