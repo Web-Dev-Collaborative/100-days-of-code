@@ -1,5 +1,7 @@
 # 100 Days Of Code - [Jack Domleo](https://jackdomleo.dev?ref=100daysofcode)
 
+[Twitter](https://twitter.com/jackdomleo7 "Follow me on Twitter") &bull; [GitHub](https://github.com/JDomleo "Follow me om GitHub or check out my projects") &bull; [CodePen](https://codepen.io/JackDomleo "Follow me on CodePen or check out my pens") &bull; [LinkedIn](https://www.linkedin.com/in/jack-domleo "Connect with me on LinkedIn")
+
 ## Welcome to my journey!
 
 [100daysofcode.com](https://100daysofcode.com) &bull; [#100DaysOfCode](https://twitter.com/hashtag/100DaysOfCode) &bull; [@ka11away](https://twitter.com/ka11away)
