@@ -166,3 +166,18 @@
 [![Day 9 image](img/day-9-svg.gif)](https://codepen.io/JackDomleo/pen/abdbMwE)
 
 ---
+
+### Day 10: June 4, 2020
+##### Alternative JS & CSS Libraries
+
+**Today's Progress**: Researched into lots of unusual, obscure JS and CSS libraries
+
+**Thoughts:** Decided to take a break from actually creating something today, so I played around with lots of different JS & CSS libraries and created CodePen collections to share with others and reference later. My particular favourites were Particles.js, Rough.js and Softripple.js. I also spent some time going through Dribbble as I need some ideas to start improving [ellaparsons.design](https://ellaparsons.design).
+
+**Tweet:** https://twitter.com/jackdomleo7/status/1268610668489510921
+
+**Link to work:**
+- [Alternative JS Libraries CodePen collection](https://codepen.io/collection/nrpJyk)
+- [Alternative CSS Libraries CodePen collection](https://codepen.io/collection/XjYeeW)
+
+---
