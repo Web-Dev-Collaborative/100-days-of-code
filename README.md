@@ -8,6 +8,24 @@
 
 [100daysofcode.com](https://100daysofcode.com) &bull; [#100DaysOfCode](https://twitter.com/hashtag/100DaysOfCode) &bull; [@ka11away](https://twitter.com/ka11away)
 
+### Challenge Goals
+
+By day 100, I would like to have had exposure to or learned:
+
+- Animation (GSAP and/or anime.js)
+- Neumorphic design
+- CodePen challenges
+- Single div CSS art
+- LESS and/or Stylus
+- Pug and/or Haml
+- Improve currently live projects
+  - [jackdomleo.dev](https://jackdomleo.dev)
+  - [ellaparsons.design](https://ellaparsons.design)
+  - [www.tmdip.co.uk](https://www.tmdip.co.uk)
+  - [Cooltipz.css](https://cooltipz.jackdomleo.dev)
+
+Fairly small list, but I really want to focus on these areas properly because I feel spending a lot of time dedicated to these topics will really improve my front-end skills.
+
 ### Contents
 
 * [Rules](rules.md)
