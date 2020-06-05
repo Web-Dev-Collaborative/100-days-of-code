@@ -199,3 +199,18 @@ Fairly small list, but I really want to focus on these areas properly because I 
 - [Alternative CSS Libraries CodePen collection](https://codepen.io/collection/XjYeeW)
 
 ---
+
+### Day 11: June 5, 2020
+##### Adding a portfolio page to ellaparsons.design
+
+**Today's Progress**: Spent today adding a portfolio page to ellaparsons.design to better ready her for her graphic designer job interviews
+
+**Thoughts:** Wanted to make sure the UI was really good so researched into different types of 'cards' I could style. Eventually found one that I spun off into my own that matched the rest of the site. Also tidied up some HTML, CSS & JS/TS.
+
+**Tweet:** https://twitter.com/jackdomleo7/status/1269026924434722817
+
+**Link to work:** [ellaparsons.design](https://ellaparsons.design/portfolio)
+
+[![Day 11 image](img/day-11.gif)](https://ellaparsons.design/portfolio)
+
+---
