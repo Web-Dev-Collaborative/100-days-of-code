@@ -214,3 +214,33 @@ Fairly small list, but I really want to focus on these areas properly because I 
 [![Day 11 image](img/day-11.gif)](https://ellaparsons.design/portfolio)
 
 ---
+
+### Day 12: June 6, 2020
+##### Purchased CodePen PRO
+
+**Today's Progress**: Spent today playing around with the features included in CodePen PRO
+
+**Thoughts:** CodePen PRO was definitely worth the investment, I will make good use out of the features it provides! Plus I get a cool "PRO" badge 😎.
+
+**Tweet:** https://twitter.com/jackdomleo7/status/1269410630303350786
+
+**Link to work:** [Customise CodePen profile page](https://codepen.io/JackDomleo/pen/pogJWex)
+
+[![Day 12 image](img/day-12.gif)](https://codepen.io/JackDomleo/pen/pogJWex)
+
+---
+
+### Day 13: June 7, 2020
+##### Adding avatars to ellaparsons.design and fixing CSS
+
+**Today's Progress**: Not a lot of time was available to me today, but with the time I had, I added neat, little avatars to ellaparsons.design
+
+**Thoughts:** The avatars were quite easy to make with the memojis coming from Apple. I also fixed some CSS bugs with the wreath on the homepage and the portfolio cards I created on [Day 11](#day-11-june-5-2020).
+
+**Tweet:** https://twitter.com/jackdomleo7/status/1269778126416027649
+
+**Link to work:** [ellaparsons.design](https://ellaparsons.design/portfolio)
+
+[![Day 13 image](img/day-13.gif)](https://ellaparsons.design/portfolio)
+
+---
