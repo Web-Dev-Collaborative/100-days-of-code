@@ -281,18 +281,23 @@ Fairly small list, but I really want to focus on these areas properly because I 
 **Thoughts:** This is going to be a long explanation, so sit back and relax:
 
 I had this frontmatter in my blogs with the `date` in the YAML date format (13<sup>th</sup> June 2020).
+
 ![Day 16 image](img/day-16-a.png)
 
 I then had a `articleDate()` function to fetch the articles to display on my blog list page, that worked fine. I then wanted to display the date of the blog, so I created a function to format each date with date-fn.
+
 ![Day 16 image](img/day-16-b.png)
 
 Here's the interesting thing, navigating to `localhost/blog/` worked perfectly 👌, but navigating to `localhost/blog` (no trailing slash), threw and error...
+
 ![Day 16 image](img/day-16-c.png)
 
 I knew it was a date issue, so I changed my code to output the raw date in collected from the blogs, here is what happened. (left: no trailing slash, right: trailing slash):
+
 ![Day 16 image](img/day-16-d.png)
 
 `/blog/` was outputting the expected output, a Date object, but `/blog` was outputting an ISO-8601 format... After hours of digging around and no progress, I decided to write my own fix, this does not fix what is returned, but this fixes the original `articleDate()` function:
+
 ![Day 16 image](img/day-16-e.png)
 
 This will get the date from the blog, parse it as a string, then reparse it as a date, seems redundant for the `/blog/` URL, but it fixes the `/blog` URL, so I think it's worth it! It means now if there's a trailing slash or not, it still works! 😁😎
