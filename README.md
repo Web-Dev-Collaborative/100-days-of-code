@@ -244,3 +244,61 @@ Fairly small list, but I really want to focus on these areas properly because I 
 [![Day 13 image](img/day-13.gif)](https://ellaparsons.design/portfolio)
 
 ---
+
+### Day 14: June 8, 2020
+##### Re-architect blog with Nuxt Content
+
+**Today's Progress**: My blog was my own implmentation of markdown embedded inside Vue. It was rushed when I did then a few months ago and have been putting off refactoring it.
+
+**Thoughts:** I first looked at frontmatter-makrdown-loader package, but after many failed attempts and searching through its GitHub issues, I finally found my answer "Don't use this package, use Nuxt Content instead". 😨 I looked into Nuxt Content and started implementing it. I struggled fetching the markdown files because the documentation on this particular section, but I neglected to thoroughly read the homepage: there was an embedded Code Sandbox with the solution to fetch markdown files... That's it for the day I think.
+
+**Tweet:** https://twitter.com/jackdomleo7/status/1270343913681948672
+
+**Link to work:** [GitHub repository](https://github.com/JDomleo/jackdomleo.dev)
+
+---
+
+### Day 15: June 8, 2020
+##### Created an awful CodePen for #NoPreviewHtmlCss
+
+**Today's Progress**: A few days ago, I created a challenge called #NoPreviewHtmlCss on Twitter and decided to take part in my own challenge.
+
+**Thoughts:** The aim is to create something using HTML & CSS but you can't look at the preview until you are done (so you're coding blind). This was my attempt, I'm not proud 🤣. That being said, it was picked by CodePen and showcased on the homepage.
+
+**Tweet:** https://twitter.com/jackdomleo7/status/1270504469764112385
+
+**Link to work:** [Neutral Emoji: #NoPreviewHtmlCss Challenge on CodePen](https://codepen.io/JackDomleo/pen/yLeeJNZ)
+
+[![Day 15 image](img/day-15.png)](https://codepen.io/JackDomleo/pen/yLeeJNZ)
+
+---
+
+### Day 16: June 10, 2020
+##### Resumed re-architect blog with Nuxt Content
+
+**Today's Progress**: Hit a very strange thing with dates in JS and YAML...
+
+**Thoughts:** This is going to be a long explanation, so sit back and relax:
+
+I had this frontmatter in my blogs with the `date` in the YAML date format (13<sup>th</sup> June 2020).
+![Day 16 image](img/day-16-a.png)
+
+I then had a `articleDate()` function to fetch the articles to display on my blog list page, that worked fine. I then wanted to display the date of the blog, so I created a function to format each date with date-fn.
+![Day 16 image](img/day-16-b.png)
+
+Here's the interesting thing, navigating to `localhost/blog/` worked perfectly 👌, but navigating to `localhost/blog` (no trailing slash), threw and error...
+![Day 16 image](img/day-16-c.png)
+
+I knew it was a date issue, so I changed my code to output the raw date in collected from the blogs, here is what happened. (left: no trailing slash, right: trailing slash):
+![Day 16 image](img/day-16-d.png)
+
+`/blog/` was outputting the expected output, a Date object, but `/blog` was outputting an ISO-8601 format... After hours of digging around and no progress, I decided to write my own fix, this does not fix what is returned, but this fixes the original `articleDate()` function:
+![Day 16 image](img/day-16-e.png)
+
+This will get the date from the blog, parse it as a string, then reparse it as a date, seems redundant for the `/blog/` URL, but it fixes the `/blog` URL, so I think it's worth it! It means now if there's a trailing slash or not, it still works! 😁😎
+
+**Tweet:** https://twitter.com/jackdomleo7/status/1270742496503627778
+
+**Link to work:** [GitHub repository](https://github.com/JDomleo/jackdomleo.dev)
+
+---
