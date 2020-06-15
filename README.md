@@ -258,7 +258,7 @@ Fairly small list, but I really want to focus on these areas properly because I 
 
 ---
 
-### Day 15: June 8, 2020
+### Day 15: June 9, 2020
 ##### Created an awful CodePen for #NoPreviewHtmlCss
 
 **Today's Progress**: A few days ago, I created a challenge called #NoPreviewHtmlCss on Twitter and decided to take part in my own challenge.
@@ -305,5 +305,63 @@ This will get the date from the blog, parse it as a string, then reparse it as a
 **Tweet:** https://twitter.com/jackdomleo7/status/1270742496503627778
 
 **Link to work:** [GitHub repository](https://github.com/JDomleo/jackdomleo.dev)
+
+---
+
+### Day 17: June 11, 2020
+##### Web presence and blog open graph images
+
+**Today's Progress**: Resumed on my blog by improving my web presence and creating a unique open graph for each blog post
+
+**Thoughts:** Working on my website's metadata is always interesting. I learned about the `article` og meta tag with options such as `article:author` and `article:published_time`.
+
+**Tweet:** https://twitter.com/jackdomleo7/status/1271213660275425280
+
+**Link to work:** [GitHub repository](https://github.com/JDomleo/jackdomleo.dev)
+
+[![Day 17 image](img/day-17.png)](https://github.com/JDomleo/jackdomleo.dev)
+
+---
+
+### Day 18: June 12, 2020
+##### Close to finishing rearchitecting and helped a friend sell his first website!
+
+**Today's Progress**: My blog rearchitecture is almost finished and ready to be merged into master. Just a few minor additions. Helped [Devin Ford](https://twitter.com/devinDford) sell his first ever website!
+
+**Thoughts:** I'm pleased with my blog improvement, finally getting markdown implemented will be so much more beneficial in the long run. [Devin](https://twitter.com/devinDford) approached me requesting help by taking a look and providing feedback on a website he created for his first client. I provided feedback on how the HTML, CSS & accessibility could be improved and was really pleased to know that the client agreed to purchase the website!
+
+**Tweet:** https://twitter.com/jackdomleo7/status/1271585245867970561
+
+**Link to work:** [GitHub repository](https://github.com/JDomleo/jackdomleo.dev)
+
+---
+
+### Day 19: June 13, 2020
+##### Blog improvement
+
+**Today's Progress**: Not a lot of coding time available to me today, so I added a few tweaks to my blog.
+
+**Thoughts:** A good article has a clear, well formatted published date, some tags that may be relevant to the article and some links so other can share the article on social media. I added these today.
+
+**Tweet:** https://twitter.com/jackdomleo7/status/1271934825944014855
+
+**Link to work:** [GitHub repository](https://github.com/JDomleo/jackdomleo.dev)
+
+[![Day 19 image](img/day-19.png)](https://github.com/JDomleo/jackdomleo.dev)
+
+---
+
+### Day 20: June 14, 2020
+##### Finally finished implenting Nuxt Content into my blog and joined DEV.to!
+
+**Today's Progress**: Really happy to have merged my Nuxt Content branch into master, this is a big step into simplifying my blog and make writing easier.
+
+**Thoughts:** I read [this article](https://www.colbyfayock.com/2020/06/how-to-grow-your-audience-and-share-your-content-with-the-world) by [Colby Fayock](https://twitter.com/colbyfayock) and took his advice on joining DEV to share my content, I also learned I can add a canonical link to the DEV article so my website's blog can get the DEV "SEO juice".
+
+**Tweet:** https://twitter.com/jackdomleo7/status/1272315972377075717
+
+**Link to work:** [First DEV.to article](https://dev.to/jackdomleo7/to-blog-or-not-to-blog-3npp)
+
+[![Day 20 image](img/day-20.png)](https://github.com/JDomleo/jackdomleo.dev)
 
 ---
