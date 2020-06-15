@@ -352,7 +352,7 @@ This will get the date from the blog, parse it as a string, then reparse it as a
 ---
 
 ### Day 20: June 14, 2020
-##### Finally finished implenting Nuxt Content into my blog and joined DEV.to!
+##### Finally finished implenting Nuxt Content into my blog and joined [DEV.to](https://dev.to/jackdomleo7)!
 
 **Today's Progress**: Really happy to have merged my Nuxt Content branch into master, this is a big step into simplifying my blog and make writing easier.
 
@@ -363,5 +363,23 @@ This will get the date from the blog, parse it as a string, then reparse it as a
 **Link to work:** [First DEV.to article](https://dev.to/jackdomleo7/to-blog-or-not-to-blog-3npp)
 
 [![Day 20 image](img/day-20.png)](https://github.com/JDomleo/jackdomleo.dev)
+
+---
+
+### Day 21: June 15, 2020
+##### Updated some website bits & published articles to [DEV.to](https://dev.to/jackdomleo7)
+
+**Today's Progress**: Added the DEV icon and a 'Buy Me a Coffee' button to my website's footer. Created a new Twitter & LinkedIn banner. Published other existing articles from [jackdomleo.dev/blog](https://jackdomleo.dev/blog) to [DEV.to](https://dev.to/jackdomleo7).
+
+**Thoughts:** I've had a tough fair few days battling Nuxt Content, I thought I'd take it easy today and do some little neat enjoyables tasks!
+
+**Tweet:** https://twitter.com/jackdomleo7/status/1272667963791937537
+
+**Link to work:**
+- [All Day Hey! 2020 DEV.to](https://dev.to/jackdomleo7/all-day-hey-2020-3ek)
+- [Learning Neumorphic Design DEV.to](https://dev.to/jackdomleo7/learning-neumorphic-design-3dj8)
+- [Why to not support Internet Explorer](https://dev.to/jackdomleo7/why-to-not-support-internet-explorer-3f8h)
+
+[![Day 21 image](img/day-21.png)](https://github.com/JDomleo/jackdomleo.dev)
 
 ---
