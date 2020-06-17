@@ -383,3 +383,32 @@ This will get the date from the blog, parse it as a string, then reparse it as a
 [![Day 21 image](img/day-21.png)](https://github.com/JDomleo/jackdomleo.dev)
 
 ---
+
+### Day 22: June 16, 2020
+##### Added front-end fuzzy search to my blog page
+
+**Today's Progress**: Using the same helper method for front-end fuzzy searching on my projects page, I decided to also add it to my blog page to make it easier (primarily for me) to find articles.
+
+**Thoughts:** I love little tasks like these, so fun! You can filter by title, description, date, reading time and hashtags!
+
+**Tweet:** https://twitter.com/jackdomleo7/status/1272845401054416896
+
+**Link to work:** [jackdomleo.dev/blog](https://jackdomleo.dev/blog)
+
+[![Day 22 image](img/day-22.gif)](https://github.com/JDomleo/jackdomleo.dev)
+
+---
+
+### Day 23: June 17, 2020
+##### Taking it easy...
+
+**Today's Progress**: Took things slower today, gave myself time to think. I spent a lot of time reorganising my structure and approach to development. I signed up to Evernote for better and cleaner note taking. I also created rules for my emails so they'd go into certain folders because they were getting a bit too much. Made more progress on my article about my journey to being a developer. Read the first chapter of "Responsive Web Design with HTML5 and CSS" by Ben Frain and began writing my review on it.
+
+**Thoughts:** Feel like I'm nearing burnout. So much on my plate right now. All my coding related tasks are jumbled; I keep jumping between tasks because I don't know what to prioritise and I was becoming overwhelming. Not to mention my sudden popularity on Twitter and CodePen with the pressure that I feel I have to deliver.
+
+**Tweet:**
+- https://twitter.com/jackdomleo7/status/1273335663186894849
+- https://twitter.com/jackdomleo7/status/1273337585134456838
+- https://twitter.com/jackdomleo7/status/1273179565708500995
+
+---
