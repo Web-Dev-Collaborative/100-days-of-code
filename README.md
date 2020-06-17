@@ -75,7 +75,7 @@ Fairly small list, but I really want to focus on these areas properly because I 
 
 **Today's Progress**: I decided to create a little CodePen of the Union Jack flag and start learning anime.js
 
-**Thoughts:** The Union Jack flag was interesting because it allowed me to think of how the flag should be structured. I ultimtaely ended up using simple blocks for the red England flag, then furthering my understanding of `linear-gradient` with the Scottish and Northern Ireland flag. I also began learning anime.js for web animation which I hope to be continuing for 4-5 days.
+**Thoughts:** The Union Jack flag was interesting because it allowed me to think of how the flag should be structured. I ultimtaely ended up using simple blocks for the red St George's flag, then furthering my understanding of `linear-gradient` with the St Andrew's flag and St Patrick's flag. I also began learning [anime.js](https://animejs.com) for web animation which I hope to be continuing for 4-5 days.
 
 **Tweet:** https://twitter.com/jackdomleo7/status/1265956691033587713
 
@@ -90,7 +90,7 @@ Fairly small list, but I really want to focus on these areas properly because I 
 ### Day 4: May 29, 2020
 ##### Web animation - anime.js and GSAP
 
-**Today's Progress**: I began learning anime.js yesterday and sadly we did not get on, so I started over with GSAP
+**Today's Progress**: I began learning [anime.js](https://animejs.com) yesterday and sadly we did not get on, so I started over with [GSAP](https://greensock.com/gsap)
 
 **Thoughts:** Learning GSAP was really fun, I began by making a simple spinning smiley face animation on CodePen. I'm not entirely sure what went wrong with myself and anime.js but hopefully I can revisit it later and try again. But for now, I'm impressed with GSAP! I was curious as to whether other people preferred anime.js or GSAP, so I created a [Twitter poll](https://twitter.com/jackdomleo7/status/1266140324767899648).
 
@@ -105,9 +105,9 @@ Fairly small list, but I really want to focus on these areas properly because I 
 ### Day 5: May 30, 2020
 ##### Web animation - GSAP
 
-**Today's Progress**: Carried on with GSAP today, a little lost on ideas and felt a bit demotivated
+**Today's Progress**: Carried on with [GSAP](https://greensock.com/gsap) today, a little lost on ideas and felt a bit demotivated
 
-**Thoughts:** I've been struggling with web animation to be honest, in the sense of - I feel idealess, had a few 'gotcha' moments with timing, messy JS and just feeling like I'm in the right vibe for web animation, it's more of a designer job. Anywho, I'm determined to carry on because I am genuinely interested in learning more and improving my web animation skills.
+**Thoughts:** I've been struggling with web animation to be honest, in the sense of - I feel idealess, had a few 'gotcha' moments with timing, messy JS and just feeling like I'm not in the right vibe for web animation, it's more of a designer job. Anywho, I'm determined to carry on because I am genuinely interested in learning more and improving my web animation skills.
 
 **Tweet:** https://twitter.com/jackdomleo7/status/1266847508027883521
 
@@ -120,7 +120,7 @@ Fairly small list, but I really want to focus on these areas properly because I 
 ### Day 6: May 31, 2020
 ##### Web animation - GSAP
 
-**Today's Progress**: Finished the Day/Night GSAP animation, wasn't particularly happy with myself
+**Today's Progress**: Finished the Day/Night [GSAP](https://greensock.com/gsap) animation, wasn't particularly happy with myself
 
 **Thoughts:** I've been feeling a bit deflated with my progression on web animation. I wasn't happy with where my skills were. I had to remind myself that it's OK, it will take time, I just need to keep creating lots of animations and eventually my understanding will get there, a very similar approach to how I learned CSS. I've decided to take a little break from web animation and move onto to something else and revisit it in a week or two, hopefully in that time I may discover some free courses and/or more inspirational ideas.
 
@@ -152,7 +152,7 @@ Fairly small list, but I really want to focus on these areas properly because I 
 ### Day 8: June 2, 2020
 ##### GSAP Sequencing Animation
 
-**Today's Progress**: Revisted web animation with CodePen's GSAP Sequencing challenge and watched animation tutorials
+**Today's Progress**: Revisted web animation with CodePen's [GSAP](https://greensock.com/gsap) Sequencing challenge and watched animation tutorials
 
 **Thoughts:** Interesting day. Took the opportunity to look at what others had submitted for their GSAP sequencing animation CodePen challenge, which inspired me to revisit animation ealrier than expected. Watched a few tutorials on GSAP, reading documentation is OK, but watching a tutorial, watching someone actually do is where it's at! Started an airplane CodePen animation that I hope to resume tomorrow with new things I've learned.
 
@@ -170,9 +170,9 @@ Fairly small list, but I really want to focus on these areas properly because I 
 ### Day 9: June 3, 2020
 ##### GSAP Sequencing Animation & GSAP Morph SVG
 
-**Today's Progress**: Resumed on my airplane sequence animation to look for improvements and tried out GSAP's Morph SVG plugin
+**Today's Progress**: Resumed on my airplane sequence animation to look for improvements and tried out [GSAP](https://greensock.com/gsap)'s Morph SVG plugin
 
-**Thoughts:** Worked on looking into easing and looking at how I could make the plane look more realistic. Also took the opportunity to watch more GSAP videos on topics I can use later and I created a CodePen to practise using GSAP's Morph SVG plugin.
+**Thoughts:** Worked on looking into easing and looking at how I could make the plane look more realistic. Also took the opportunity to watch more GSAP videos on topics I can use later and I created a CodePen to practise using GSAP's [Morph SVG plugin](https://greensock.com/morphsvg).
 
 **Tweet:** https://twitter.com/jackdomleo7/status/1268195822287626243
 
@@ -190,7 +190,7 @@ Fairly small list, but I really want to focus on these areas properly because I 
 
 **Today's Progress**: Researched into lots of unusual, obscure JS and CSS libraries
 
-**Thoughts:** Decided to take a break from actually creating something today, so I played around with lots of different JS & CSS libraries and created CodePen collections to share with others and reference later. My particular favourites were Particles.js, Rough.js and Softripple.js. I also spent some time going through Dribbble as I need some ideas to start improving [ellaparsons.design](https://ellaparsons.design).
+**Thoughts:** Decided to take a break from actually creating something today, so I played around with lots of different JS & CSS libraries and created CodePen collections to share with others and reference later. My particular favourites were [Particles.js](https://vincentgarreau.com/particles.js), [Rough.js](https://roughjs.com) and [Softripple.js](https://codepen.io/dev_loop/full/KKVKqrq). I also spent some time going through [Dribbble](https://dribbble.com) as I need some ideas to start improving [ellaparsons.design](https://ellaparsons.design).
 
 **Tweet:** https://twitter.com/jackdomleo7/status/1268610668489510921
 
@@ -218,7 +218,7 @@ Fairly small list, but I really want to focus on these areas properly because I 
 ### Day 12: June 6, 2020
 ##### Purchased CodePen PRO
 
-**Today's Progress**: Spent today playing around with the features included in CodePen PRO
+**Today's Progress**: Spent today playing around with the features included in [CodePen PRO](https://codepen.io/pro)
 
 **Thoughts:** CodePen PRO was definitely worth the investment, I will make good use out of the features it provides! Plus I get a cool "PRO" badge 😎.
 
@@ -235,7 +235,7 @@ Fairly small list, but I really want to focus on these areas properly because I 
 
 **Today's Progress**: Not a lot of time was available to me today, but with the time I had, I added neat, little avatars to ellaparsons.design
 
-**Thoughts:** The avatars were quite easy to make with the memojis coming from Apple. I also fixed some CSS bugs with the wreath on the homepage and the portfolio cards I created on [Day 11](#day-11-june-5-2020).
+**Thoughts:** The avatars were quite easy to make with the [memojis](https://support.apple.com/en-gb/guide/iphone/iph37b0bfe7b/ios) coming from Apple. I also fixed some CSS bugs with the wreath on the homepage and the portfolio cards I created on [Day 11](#day-11-june-5-2020).
 
 **Tweet:** https://twitter.com/jackdomleo7/status/1269778126416027649
 
@@ -250,7 +250,7 @@ Fairly small list, but I really want to focus on these areas properly because I 
 
 **Today's Progress**: My blog was my own implmentation of markdown embedded inside Vue. It was rushed when I did then a few months ago and have been putting off refactoring it.
 
-**Thoughts:** I first looked at frontmatter-makrdown-loader package, but after many failed attempts and searching through its GitHub issues, I finally found my answer "Don't use this package, use Nuxt Content instead". 😨 I looked into Nuxt Content and started implementing it. I struggled fetching the markdown files because the documentation on this particular section, but I neglected to thoroughly read the homepage: there was an embedded Code Sandbox with the solution to fetch markdown files... That's it for the day I think.
+**Thoughts:** I first looked at [frontmatter-makrdown-loader](https://github.com/hmsk/frontmatter-markdown-loader) package, but after many failed attempts and searching through its GitHub issues, I finally found my answer "Don't use this package, use Nuxt Content instead". 😨 I looked into [Nuxt Content](https://content.nuxtjs.org) and started implementing it. I struggled fetching the markdown files because the documentation on this particular section was thin, but I neglected to thoroughly read the homepage: there was an embedded code [Sandbox](https://codesandbox.io/s/nuxtcontent-demo-l164h?from-embed) with the solution to fetch markdown files... That's it for the day I think.
 
 **Tweet:** https://twitter.com/jackdomleo7/status/1270343913681948672
 
@@ -276,7 +276,7 @@ Fairly small list, but I really want to focus on these areas properly because I 
 ### Day 16: June 10, 2020
 ##### Resumed re-architect blog with Nuxt Content
 
-**Today's Progress**: Hit a very strange thing with dates in JS and YAML...
+**Today's Progress**: Hit a very strange oddity with dates in JS and YAML...
 
 **Thoughts:** This is going to be a long explanation, so sit back and relax:
 
@@ -305,6 +305,8 @@ This will get the date from the blog, parse it as a string, then reparse it as a
 **Tweet:** https://twitter.com/jackdomleo7/status/1270742496503627778
 
 **Link to work:** [GitHub repository](https://github.com/JDomleo/jackdomleo.dev)
+
+[Update 17/06/2020 - This issue was resolved but nuxt/content in [v1.3.2](https://github.com/nuxt/content/releases/tag/v1.3.2) on 11/06/2020]
 
 ---
 
@@ -341,7 +343,7 @@ This will get the date from the blog, parse it as a string, then reparse it as a
 
 **Today's Progress**: Not a lot of coding time available to me today, so I added a few tweaks to my blog.
 
-**Thoughts:** A good article has a clear, well formatted published date, some tags that may be relevant to the article and some links so other can share the article on social media. I added these today.
+**Thoughts:** A good article has a clear, well formatted published date, some tags that may be relevant to the article and some links so other can share the article on social media. I added these today. Also made sure I made correct and effective use of the `<time datetime=""></time>` HTML tag.
 
 **Tweet:** https://twitter.com/jackdomleo7/status/1271934825944014855
 
@@ -402,9 +404,9 @@ This will get the date from the blog, parse it as a string, then reparse it as a
 ### Day 23: June 17, 2020
 ##### Taking it easy...
 
-**Today's Progress**: Took things slower today, gave myself time to think. I spent a lot of time reorganising my structure and approach to development. I signed up to Evernote for better and cleaner note taking. I also created rules for my emails so they'd go into certain folders because they were getting a bit too much. Made more progress on my article about my journey to being a developer. Read the first chapter of "Responsive Web Design with HTML5 and CSS" by Ben Frain and began writing my review on it.
+**Today's Progress**: Took things slower today, gave myself time to think. I spent a lot of time reorganising my structure and approach to development. I signed up to [Evernote](https://www.evernote.com) for better and cleaner note taking. I also created rules for my emails so they'd go into certain folders because they were getting a bit too much. Made more progress on my article about my journey to being a developer. Read the first chapter of ["Responsive Web Design with HTML5 and CSS" by Ben Frain](https://www.amazon.com/Responsive-Web-Design-HTML5-CSS/dp/1839211563) and began writing my review on it.
 
-**Thoughts:** Feel like I'm nearing burnout. So much on my plate right now. All my coding related tasks are jumbled; I keep jumping between tasks because I don't know what to prioritise and I was becoming overwhelming. Not to mention my sudden popularity on Twitter and CodePen with the pressure that I feel I have to deliver.
+**Thoughts:** Feel like I'm nearing burnout. So much on my plate right now. All my coding related tasks are jumbled; I keep jumping between tasks because I don't know what to prioritise and I was becoming overwhelming. Not to mention my sudden popularity on Twitter and CodePen with the pressure that I feel I have to deliver. Thankgully, a colleauge of mine, [Andrew](https://twitter.com/ajbkr) offered me an invaluable phone call and some articles to read: ["Spinning plates in a world of stress"](https://msmotivator.me/2017/04/10/spinning-plates-in-a-world-of-stress) and ["The Jar of Life: First things First"](https://balancedaction.me/2012/10/17/the-jar-of-life-first-things-first).
 
 **Tweet:**
 - https://twitter.com/jackdomleo7/status/1273335663186894849
