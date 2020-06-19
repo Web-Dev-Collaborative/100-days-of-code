@@ -414,3 +414,29 @@ This will get the date from the blog, parse it as a string, then reparse it as a
 - https://twitter.com/jackdomleo7/status/1273179565708500995
 
 ---
+
+### Day 24: June 18, 2020
+##### Writing, writing and more writing
+
+**Today's Progress**: Wrote my first draft on an article, "How I went from a Retail Assistant at 17 to Landing a Developer Role at 19" and reviewed before I asked proofreaders to proof read. Also began my review on the book, "Responsive Web Design with HTML5 and CSS".
+
+**Thoughts:** You don't realise how difficult writing is until you do it... But I'm happy with it, a few tweaks on my article needed before I send to proofreaders, mostly the tone needs altering.
+
+**Tweet:** https://twitter.com/jackdomleo7/status/1273753607406604289
+
+---
+
+### Day 25: June 19, 2020
+##### Published my "How I went from a Retail Assistant at 17 to Landing a Developer Role at 19" article
+
+**Today's Progress**: I finally published this article after many days of planning and writing...
+
+**Thoughts:** Thanks to the special help from [@DThompsonDev](https://twitter.com/DThompsonDev), [@anniebombanie_](https://twitter.com/anniebombanie_), [@NehemiahKiv](https://twitter.com/NehemiahKiv), [@sharifElkassed](https://twitter.com/sharifElkassed), [@hashtagcoder](https://twitter.com/hashtagcoder), [@godwin_kachi](https://twitter.com/godwin_kachi), [@notrohan_](https://twitter.com/notrohan_), [@js_nerd](https://twitter.com/js_nerd) and [@met1culousj](https://twitter.com/met1culousj) for helping the article be possible.
+
+**Tweet:** https://twitter.com/jackdomleo7/status/1274077188720123904
+
+**Link to work:** [jackdomleo.dev/blog/how-i-went-from-a-retail-assistant-at-17-to-landing-a-developer-role-at-19](https://jackdomleo.dev/blog/how-i-went-from-a-retail-assistant-at-17-to-landing-a-developer-role-at-19)
+
+[![Day 25 image](img/day-25.png)](https://jackdomleo.dev/blog/how-i-went-from-a-retail-assistant-at-17-to-landing-a-developer-role-at-19/)
+
+---
