@@ -440,3 +440,49 @@ This will get the date from the blog, parse it as a string, then reparse it as a
 [![Day 25 image](img/day-25.png)](https://jackdomleo.dev/blog/how-i-went-from-a-retail-assistant-at-17-to-landing-a-developer-role-at-19/)
 
 ---
+
+### Day 26: June 20, 2020
+##### Reading
+
+**Today's Progress**: "Responsive Web Design with HTML5 and CSS" by [Ben Frain](https://benfrain.com)
+
+**Thoughts:** A developer doesn't have to always be coding to be a developer. This is a really good book, so deserves a well written review. Also caught up on some articles from ym article backlog.
+
+**Tweet:**
+- https://twitter.com/jackdomleo7/status/1274471035128119296
+- https://twitter.com/jackdomleo7/status/1274471037095346183
+
+---
+
+### Day 27: June 21, 2020
+##### More Reading
+
+**Today's Progress**: "Responsive Web Design with HTML5 and CSS" by [Ben Frain](https://benfrain.com)
+
+**Thoughts:** Still a really good book, so deserves a well written review.
+
+**Tweet:** https://twitter.com/jackdomleo7/status/1274829077875130368
+
+---
+
+### Day 28: June 22, 2020
+##### Sketching
+
+**Today's Progress**: Began sketching a new layout for my website.
+
+**Thoughts:** I've noticed most visitors visit my home page, then leave. I've been sketching ideas to make my homepage more appealing that I will develop in the coming days/weeks.
+
+**Tweet:** Forgot to tweet 🤦‍♂️
+
+---
+
+### Day 29: June 23, 2020
+##### Reading, helping, sketching, course planning
+
+**Today's Progress**: Bit of an unplanned eventful day. I've read more of that book mentioned previously, been mentoring/helping fellow developers on Twitter through direct messages, more sketches on website layout and relearning CSS basics to prepare me for a new course I've been asked to help create.
+
+**Thoughts:** Relearning CSS is always exciting! Mentoring through Twitter direct messages is by far the biggest time consumer of my day 😅.
+
+**Tweet:** https://twitter.com/jackdomleo7/status/1275554869697486851
+
+---
