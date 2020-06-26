@@ -486,3 +486,33 @@ This will get the date from the blog, parse it as a string, then reparse it as a
 **Tweet:** https://twitter.com/jackdomleo7/status/1275554869697486851
 
 ---
+
+### Day 31: June 24, 2020
+##### GSAP & course planning
+
+**Today's Progress**: Worked on a GSAP CodePen to celebrate reahing 100 CodePen followers. Also planned some more of the course I'm working on.
+
+**Thoughts:** "Man... Animation is hard. Not the CSS or JS, but getting the artistic side of it ride with easing... 😅"
+
+**Link to work**: [100 folowers CodePen](https://codepen.io/JackDomleo/pen/bGEWPLy)
+
+**Tweet:** Forgot to tweet 🤦‍♂️
+
+[![Day 31 image](img/day-31.gif)](https://codepen.io/JackDomleo/pen/bGEWPLy)
+
+---
+
+### Day 32: June 25, 2020
+##### Website improvements
+
+**Today's Progress**: Working on improving my website. Added a portfolio page and some additions to the homepage.
+
+**Thoughts:** This makes me realise I should working through consider a UI design course.
+
+**Link to work**: [Website portfolio page](https://jackdomleo.dev/portfolio)
+
+**Tweet:** Forgot to tweet 🤦‍♂️
+
+[![Day 31 image](img/day-32.png)](https://jackdomleo.dev)
+
+---
