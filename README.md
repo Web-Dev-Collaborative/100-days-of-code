@@ -1,4 +1,4 @@
-# 100 Days Of Code - [Jack Domleo](https://jackdomleo.dev?ref=100daysofcode)
+# 100 Days Of Code - [Jack Domleo](https://jackdomleo.dev)
 
 [Twitter](https://twitter.com/jackdomleo7 "Follow me on Twitter") &bull; [GitHub](https://github.com/JDomleo "Follow me om GitHub or check out my projects") &bull; [CodePen](https://codepen.io/JackDomleo "Follow me on CodePen or check out my pens") &bull; [LinkedIn](https://www.linkedin.com/in/jack-domleo "Connect with me on LinkedIn")
 
@@ -514,5 +514,35 @@ This will get the date from the blog, parse it as a string, then reparse it as a
 **Tweet:** Forgot to tweet 🤦‍♂️
 
 [![Day 31 image](img/day-32.png)](https://jackdomleo.dev)
+
+---
+
+### Day 33: June 26, 2020
+##### Minor website improvements
+
+**Today's Progress**: General refactoring. Tidied CSS.
+
+**Thoughts:** I always love refactoring and tidying CSS, it allows you to step back and think, "This is how it was, now it's cleaner, how can I improve it?" For example, I improved my Buy Me a Coffee button.
+
+**Link to work**: [My website](https://jackdomleo.dev)
+
+**Tweet:** https://twitter.com/jackdomleo7/status/1276652403371257856
+
+[![Day 31 image](img/day-33.gif)](https://jackdomleo.dev)
+
+---
+
+### Day 34: June 26, 2020
+##### GSAP scrollTrigger and skeleton loader
+
+**Today's Progress**: Tried GSAP's scrollTrigger for CodePen's challenge and really really struggled. 😔 I also implemented my own skeleton loader for my blog page.
+
+**Thoughts:** Doing the scrollTrigger stuff made me realise that I need to stop diving in the deep end. I wasn't successful with my attempt. So, from now on I'm going to create a plan and look into interactive courses and really take my time learning something new. However, the skeleton loader looks pretty modern and neat.
+
+**Link to work**: [My website's blog](https://jackdomleo.dev/blog)
+
+**Tweet:** https://twitter.com/jackdomleo7/status/1277020339059466240
+
+[![Day 31 image](img/day-34.gif)](https://jackdomleo.dev/blog)
 
 ---
