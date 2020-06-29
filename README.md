@@ -513,7 +513,7 @@ This will get the date from the blog, parse it as a string, then reparse it as a
 
 **Tweet:** Forgot to tweet 🤦‍♂️
 
-[![Day 31 image](img/day-32.png)](https://jackdomleo.dev)
+[![Day 32 image](img/day-32.png)](https://jackdomleo.dev)
 
 ---
 
@@ -528,11 +528,11 @@ This will get the date from the blog, parse it as a string, then reparse it as a
 
 **Tweet:** https://twitter.com/jackdomleo7/status/1276652403371257856
 
-[![Day 31 image](img/day-33.gif)](https://jackdomleo.dev)
+[![Day 33 image](img/day-33.gif)](https://jackdomleo.dev)
 
 ---
 
-### Day 34: June 26, 2020
+### Day 34: June 27, 2020
 ##### GSAP scrollTrigger and skeleton loader
 
 **Today's Progress**: Tried GSAP's scrollTrigger for CodePen's challenge and really really struggled. 😔 I also implemented my own skeleton loader for my blog page.
@@ -543,6 +543,21 @@ This will get the date from the blog, parse it as a string, then reparse it as a
 
 **Tweet:** https://twitter.com/jackdomleo7/status/1277020339059466240
 
-[![Day 31 image](img/day-34.gif)](https://jackdomleo.dev/blog)
+[![Day 34 image](img/day-34.gif)](https://jackdomleo.dev/blog)
+
+---
+
+### Day 35: June 28, 2020
+##### Website feedback
+
+**Today's Progress**: Received some fantastic feedback from [Dan Spratling](https://twitter.com/dan_spratling) so made those changes.
+
+**Thoughts:** Dan picked up on colour, accessibility, breakages and suggestions. I resolved a broken link, redefined all my colours so all text and link text against the background were WCAG AAA compilent for both dark and light themes. Fixed a width issue on my blog's skeleton loader and added a contact form to my home page using [Formspree](https://formspree.io).
+
+**Link to work**: [My website](https://jackdomleo.dev)
+
+**Tweet:** https://twitter.com/jackdomleo7/status/1277398891365892096
+
+[![Day 35 image](img/day-35.gif)](https://jackdomleo.dev)
 
 ---
