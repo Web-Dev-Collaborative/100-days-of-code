@@ -561,3 +561,18 @@ This will get the date from the blog, parse it as a string, then reparse it as a
 [![Day 35 image](img/day-35.gif)](https://jackdomleo.dev)
 
 ---
+
+### Day 36: June 29, 2020
+##### Website feedback & eBook giveaway
+
+**Today's Progress**: Resumed with feedback changes from [Dan Spratling](https://twitter.com/dan_spratling) and was offered to do a free eBook giveaway event by [Packt Publishers](https://twitter.com/PacktPub).
+
+**Thoughts:** Added a 'Top projects' section to my website and picked up on a few spelling typos 👀. The giveaway was an instant success, I'm enjoying the book so far and am really happy to have partnered with [Ravit Jain](https://twitter.com/RavitJain) at [Packt Publishers](https://twitter.com/PacktPub) to have arranged this.
+
+**Link to work**: [My website](https://jackdomleo.dev)
+
+**Tweet:** https://twitter.com/jackdomleo7/status/1277906094174633984
+
+[![Day 36 image](img/day-36.png)](https://twitter.com/jackdomleo7/status/1277906094174633984)
+
+---
