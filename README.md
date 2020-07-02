@@ -576,3 +576,50 @@ This will get the date from the blog, parse it as a string, then reparse it as a
 [![Day 36 image](img/day-36.png)](https://twitter.com/jackdomleo7/status/1277906094174633984)
 
 ---
+
+### Day 37: June 30, 2020
+##### Redesigned my website's projects page
+
+**Today's Progress**: Redesigned my website's projects page to be neater.
+
+**Thoughts:** You know that feel when something just needs redoing but you don't quite know why? Well, I redid my projects page.
+
+**Link to work**: [My website's project page](https://jackdomleo.dev/projects)
+
+**Tweet:** https://twitter.com/jackdomleo7/status/1278132145740005376
+
+[![Day 37 image](img/day-37.gif)](https://twitter.com/jackdomleo7/status/1277906094174633984)
+
+---
+
+### Day 38: July 1, 2020
+##### Nuxt Feed, Latest Blog & Giveaway winners announced
+
+**Today's Progress**: I implemented an automatic updating RSS feed for my blog using [Nuxt Feed](https://github.com/nuxt-community/feed-module). I also added a [Latest article](https://jackdomleo.dev#latest) section to my home page. 2 days ago I announced a giveaway for an eBook and announced the two lucky winners today.
+
+**Thoughts:** Implementing Nuxt Feed was easy, knowing I'd done it right was hard. I'd never seen a proper RSS feed before so had no idea whether what I'd created would actually work, but I used [Feedly](https://feedly.com) to check and it does 👍.
+
+**Link to work**: [My RSS feed](https://jackdomleo.dev/feed.xml)
+
+**Tweet:**
+- https://twitter.com/jackdomleo7/status/1278451406240972800
+- https://twitter.com/jackdomleo7/status/1278422168116891649
+
+---
+
+### Day 39: July 2, 2020
+##### New article and refactored CodePen embedding into my website
+
+**Today's Progress**: Released my first article of the Monthly Reflection series and tidied how I embed CodePen into my website.
+
+**Thoughts:** I thought it would benefit me a lot if I had a log of what I have done and achieved each month - so I started with June 2020. Turns out I've done a lot. I also noticed, when I embed a new CodePen pen, I'm repeatig A LOT and it was getting messy, so I created a clean Vue component with some customisable props.
+
+**Link to work**:
+- [Monthly Reflection - June 2020](https://jackdomleo.dev/blog/monthly-reflection-june-2020)
+- [CodePen component](https://github.com/JDomleo/jackdomleo.dev/blob/master/components/codepen.vue)
+
+**Tweet:** https://twitter.com/jackdomleo7/status/1278817725389963264
+
+[![Day 39 image](img/day-39.png)](https://jackdomleo.dev/blog/monthly-reflection-june-2020)
+
+---
