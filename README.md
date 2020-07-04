@@ -623,3 +623,29 @@ This will get the date from the blog, parse it as a string, then reparse it as a
 [![Day 39 image](img/day-39.png)](https://jackdomleo.dev/blog/monthly-reflection-june-2020)
 
 ---
+
+### Day 40: July 3, 2020
+##### Writing a new article
+
+**Today's Progress**: No coding today, I wanted to start writing some articles that are on my idea list - it's getting quite long.
+
+**Thoughts:** Started an article about stuttering, not really coding related, but oh well. I'm a stutterer myself and have had several people approach me on Twitter asking me about how I handle my stutter because they also stutter and were looking for guidance and advice.
+
+**Tweet:** https://twitter.com/jackdomleo7/status/1279178295913914369
+
+---
+
+### Day 41: July 4, 2020
+##### Published stuttering article
+
+**Today's Progress**: No coding today, I wanted to finish this stuttering article.
+
+**Thoughts:** I'm not entirely impressed with this article becasue it's not related directly to coding and tech but I'm glad I wrote it because stuttering is close to my heart.
+
+**Link to work**: [A St-St-Stuttering Developer article](https://jackdomleo.dev/blog/a-st-st-stuttering-developer)
+
+**Tweet:** https://twitter.com/jackdomleo7/status/1279528143297150976
+
+[![Day 41 image](img/day-41.png)](https://jackdomleo.dev/blog/monthly-reflection-june-2020)
+
+---
