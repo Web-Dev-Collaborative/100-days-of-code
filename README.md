@@ -646,6 +646,32 @@ This will get the date from the blog, parse it as a string, then reparse it as a
 
 **Tweet:** https://twitter.com/jackdomleo7/status/1279528143297150976
 
-[![Day 41 image](img/day-41.png)](https://jackdomleo.dev/blog/monthly-reflection-june-2020)
+[![Day 41 image](img/day-41.png)](https://jackdomleo.dev/blog/a-st-st-stuttering-developer)
+
+---
+
+### Day 42: July 5, 2020
+##### Created an email for my jackdomleo.dev domain
+
+**Today's Progress**: Created an email for jackdomleo.dev using G Suite as the mailing provider.
+
+**Thoughts:** I thought it would be good and professional to have an email at my own domain - this now leaves me with 3 email addresses, hotmail, gmail and my domain email. I started to randomly stress because I couldn't decide which email I was going to use for what 😅. I'm having second thoughts about my domain email - I may just end getting rid of 2 of my email addresses because I only need one. I'm sure I'll decide eventually.
+
+**Tweet:** https://twitter.com/jackdomleo7/status/1279886698768412673
+
+---
+
+### Day 43: July 6, 2020
+##### New article, newsletter and contact form
+
+**Today's Progress**: I wrote a new article called "@media (hover: hover) - CSS Media Query", created a newsletter signup form and added a contact form to [ellaparsons.design](https://ellaparsons.design/bio).
+
+**Thoughts:** I've recently discovered and have been playing with the `hover: hover` CSS media query ([MDN web docs](https://developer.mozilla.org/en-US/docs/Web/CSS/@media/hover)) and been understanding why it's useful, so I decided to write a useful article about it. I have also decided to create a monthly newsletter using [Mailchimp](https://mailchimp.com) where I will share monthly updates about my most recent projects and articles. I also used [Formspree](https://formspree.io) to add a contact form to [ellaparsons.design](https://ellaparsons.design/bio).
+
+**Link to work**: [@media (hover: hover) - CSS Media Query article](https://jackdomleo.dev/blog/hover-css-media-query)
+
+**Tweet:** https://twitter.com/jackdomleo7/status/1280260933739253765
+
+[![Day 43 image](img/day-43.png)](https://jackdomleo.dev/blog/hover-css-media-query)
 
 ---
