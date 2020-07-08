@@ -675,3 +675,34 @@ This will get the date from the blog, parse it as a string, then reparse it as a
 [![Day 43 image](img/day-43.png)](https://jackdomleo.dev/blog/hover-css-media-query)
 
 ---
+
+### Day 44: July 7, 2020
+##### Rewatched entire All Day Hey 2020 conference
+
+**Today's Progress**: I decided to make the most of my All Day Hey 2020 description so decided to rewatch the entire conference and read my own [review article](https://jackdomleo.dev/blog/all-day-hey-2020).
+
+**Thoughts:** This was an interesting and educational conference the first time round, and still is today. I paid particular attention to the design pattern talks and writing a good, semantic, accessible button demonstration. The tweet says "Part 1", which implies there is more... There isn't, I got caught up changing my usernames on everything to 'jackdomleo7' so there was consistency for me.
+
+**Link to work**: [All Day Hey: 2020 review](https://jackdomleo.dev/blog/all-day-hey-2020)
+
+**Tweet:** https://twitter.com/jackdomleo7/status/1280465572929638402
+
+---
+
+### Day 45: July 8, 2020
+##### JavaScript drumkit & created a Twitter bot
+
+**Today's Progress**: Decided to start [Wes Bos's]() [JavaScript30](https://javascript30.com) course and day 1 was a JS drumkit. I also created a Twitter bot for #NoPreviewHtmlCss: The Challenge.
+
+**Thoughts:** The JS drumkit is pretty cool, it plays sounds from a drumkit! I learned about the `transitionend` event, which I wasn't originally aware of, which is useful. I'm at that point now where I don't know what I don't know, so beginning to do some courses give me more feature ideas for projects, while bettering my knowledge.
+
+**Link to work**:
+- [JS drumkit](https://jackdomleo7.github.io/JavaScript30/01-javascript-drum-kit)
+- [Twitter bot](https://twitter.com/NoPreviewHtmlCs)
+- [Twitter bot code](https://github.com/jackdomleo7/twitter-bot-nopreviewhtmlcss)
+
+**Tweet:** https://twitter.com/jackdomleo7/status/1281007313403490304
+
+[![Day 45 image](img/day-45.gif)](https://jackdomleo7.github.io/JavaScript30/01-javascript-drum-kit)
+
+---
