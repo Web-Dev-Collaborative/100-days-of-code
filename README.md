@@ -706,3 +706,7 @@ This will get the date from the blog, parse it as a string, then reparse it as a
 [![Day 45 image](img/day-45.gif)](https://jackdomleo7.github.io/JavaScript30/01-javascript-drum-kit)
 
 ---
+
+_Taking a few days break here for a long weekend trip to the British seaside_ 🏖
+
+---
