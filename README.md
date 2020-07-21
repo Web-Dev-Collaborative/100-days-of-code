@@ -404,7 +404,7 @@ This will get the date from the blog, parse it as a string, then reparse it as a
 ### Day 23: June 17, 2020
 ##### Taking it easy...
 
-**Today's Progress**: Took things slower today, gave myself time to think. I spent a lot of time reorganising my structure and approach to development. I signed up to [Evernote](https://www.evernote.com) for better and cleaner note taking. I also created rules for my emails so they'd go into certain folders because they were getting a bit too much. Made more progress on my article about my journey to being a developer. Read the first chapter of ["Responsive Web Design with HTML5 and CSS" by Ben Frain](https://www.amazon.com/Responsive-Web-Design-HTML5-CSS/dp/1839211563) and began writing my review on it.
+**Today's Progress**: Took things slower today, gave myself time to think. I spent a lot of time reorganising my structure and approach to development. I signed up to [Evernote](https://www.evernote.com) for better and cleaner note taking. I also created rules for my emails so they'd go into certain folders because they were getting a bit too much. Made more progress on my article about my journey to being a developer. Read the first chapter of ["Responsive Web Design with HTML5 and CSS" by Ben Frain](https://amzn.to/2WKBcjJ) and began writing my review on it.
 
 **Thoughts:** Feel like I'm nearing burnout. So much on my plate right now. All my coding related tasks are jumbled; I keep jumping between tasks because I don't know what to prioritise and I was becoming overwhelming. Not to mention my sudden popularity on Twitter and CodePen with the pressure that I feel I have to deliver. Thankgully, a colleauge of mine, [Andrew](https://twitter.com/ajbkr) offered me an invaluable phone call and some articles to read: ["Spinning plates in a world of stress"](https://msmotivator.me/2017/04/10/spinning-plates-in-a-world-of-stress) and ["The Jar of Life: First things First"](https://balancedaction.me/2012/10/17/the-jar-of-life-first-things-first).
 
@@ -444,7 +444,7 @@ This will get the date from the blog, parse it as a string, then reparse it as a
 ### Day 26: June 20, 2020
 ##### Reading
 
-**Today's Progress**: "Responsive Web Design with HTML5 and CSS" by [Ben Frain](https://benfrain.com)
+**Today's Progress**: "[Responsive Web Design with HTML5 and CSS](https://amzn.to/2WKBcjJ)" by [Ben Frain](https://benfrain.com)
 
 **Thoughts:** A developer doesn't have to always be coding to be a developer. This is a really good book, so deserves a well written review. Also caught up on some articles from ym article backlog.
 
@@ -457,7 +457,7 @@ This will get the date from the blog, parse it as a string, then reparse it as a
 ### Day 27: June 21, 2020
 ##### More Reading
 
-**Today's Progress**: "Responsive Web Design with HTML5 and CSS" by [Ben Frain](https://benfrain.com)
+**Today's Progress**: "[Responsive Web Design with HTML5 and CSS](https://amzn.to/2WKBcjJ)" by [Ben Frain](https://benfrain.com)
 
 **Thoughts:** Still a really good book, so deserves a well written review.
 
@@ -479,7 +479,7 @@ This will get the date from the blog, parse it as a string, then reparse it as a
 ### Day 29: June 23, 2020
 ##### Reading, helping, sketching, course planning
 
-**Today's Progress**: Bit of an unplanned eventful day. I've read more of that book mentioned previously, been mentoring/helping fellow developers on Twitter through direct messages, more sketches on website layout and relearning CSS basics to prepare me for a new course I've been asked to help create.
+**Today's Progress**: Bit of an unplanned eventful day. I've read more of that [book](https://amzn.to/2WKBcjJ) mentioned previously, been mentoring/helping fellow developers on Twitter through direct messages, more sketches on website layout and relearning CSS basics to prepare me for a new course I've been asked to help create.
 
 **Thoughts:** Relearning CSS is always exciting! Mentoring through Twitter direct messages is by far the biggest time consumer of my day 😅.
 
@@ -565,7 +565,7 @@ This will get the date from the blog, parse it as a string, then reparse it as a
 ### Day 36: June 29, 2020
 ##### Website feedback & eBook giveaway
 
-**Today's Progress**: Resumed with feedback changes from [Dan Spratling](https://twitter.com/dan_spratling) and was offered to do a free eBook giveaway event by [Packt Publishers](https://twitter.com/PacktPub).
+**Today's Progress**: Resumed with feedback changes from [Dan Spratling](https://twitter.com/dan_spratling) and was offered to do a free [eBook](https://amzn.to/2WKBcjJ) giveaway event by [Packt Publishers](https://twitter.com/PacktPub).
 
 **Thoughts:** Added a 'Top projects' section to my website and picked up on a few spelling typos 👀. The giveaway was an instant success, I'm enjoying the book so far and am really happy to have partnered with [Ravit Jain](https://twitter.com/RavitJain) at [Packt Publishers](https://twitter.com/PacktPub) to have arranged this.
 
