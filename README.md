@@ -710,3 +710,20 @@ This will get the date from the blog, parse it as a string, then reparse it as a
 _Taking a few days break here for a long weekend trip to the British seaside_ 🏖
 
 ---
+
+### Day 46: July 22, 2020
+##### New og image, reading & Vuex
+
+**Today's Progress**: My website's og image was outdated because it had my old handles for CodePen, GitHub and LinkedIn, so I neatened it up a bit. Continued writing a review for [Resposive Web Design with HTML5 and CSS](https://amzn.to/2WKBcjJ) and comtinued learning [Vuex](https://vuex.vuejs.org) (with some [Vuetify](https://vuetifyjs.com) on the side).
+
+**Thoughts:** Quite happy with my new og image, has my brand colours, correct handle and is short and effective. The book article is going well, but didn't realise how long I accidentally made it. Vuex is somewhat challenging but I'm getting there, Vuetify is also a new concept to.
+
+**Link to work**:
+- [Vuex & Vuetify project](https://github.com/jackdomleo7/project-state-manager)
+- [Resposive Web Design with HTML5 and CSS](https://amzn.to/2WKBcjJ)
+
+**Tweet:** https://twitter.com/jackdomleo7/status/1285718148524777475
+
+[![Day 46 image](img/day-46.png)](https://jackdomleo.dev/img/open-graph.png)
+
+---
