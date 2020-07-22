@@ -711,7 +711,7 @@ _Taking a few days break here for a long weekend trip to the British seaside_ ðŸ
 
 ---
 
-### Day 46: July 22, 2020
+### Day 46: July 21, 2020
 ##### New og image, reading & Vuex
 
 **Today's Progress**: My website's og image was outdated because it had my old handles for CodePen, GitHub and LinkedIn, so I neatened it up a bit. Continued writing a review for [Resposive Web Design with HTML5 and CSS](https://amzn.to/2WKBcjJ) and comtinued learning [Vuex](https://vuex.vuejs.org) (with some [Vuetify](https://vuetifyjs.com) on the side).
@@ -725,5 +725,20 @@ _Taking a few days break here for a long weekend trip to the British seaside_ ðŸ
 **Tweet:** https://twitter.com/jackdomleo7/status/1285718148524777475
 
 [![Day 46 image](img/day-46.png)](https://jackdomleo.dev/img/open-graph.png)
+
+---
+
+### Day 47: July 22, 2020
+##### Blog query parameters, website upgrades and reading
+
+**Today's Progress**: Added options to pass `search` and `filter` query parameters on my blog url ([jackdomleo.dev/blog?search=june&filter=career](https://jackdomleo.dev/blog?search=june&filter=career)), made some content changes to my website. Continued further with my book review.
+
+**Thoughts:** Often found myself needing to share a group of articles, so adding query parameters to the URL so I can send it to someone seems like a really good idea! Quite simple to implement too.
+
+**Link to work**: [jackdomleo.dev/blog?search=june&filter=career](https://jackdomleo.dev/blog?search=june&filter=career)
+
+**Tweet:** https://twitter.com/jackdomleo7/status/1286063394194444296
+
+[![Day 47 image](img/day-47.gif)](https://jackdomleo.dev/blog?search=june&filter=career)
 
 ---
